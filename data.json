@@ -1,0 +1,72 @@
+[
+    {
+        "en_name": "Toyota Corolla",
+        "ru_name": "Тойота Королла",
+        "kr_name": "토요타 코롤라"
+      },
+      {
+        "en_name": "Honda Civic",
+        "ru_name": "Хонда Цивик",
+        "kr_name": "혼다 시빅"
+      },
+      {
+        "en_name": "Ford F-Series",
+        "ru_name": "Форд Ф-Серии",
+        "kr_name": "포드 F-시리즈"
+      },
+      {
+        "en_name": "Toyota Camry",
+        "ru_name": "Тойота Камри",
+        "kr_name": "토요타 캠리"
+      },
+      {
+        "en_name": "Honda Accord",
+        "ru_name": "Хонда Аккорд",
+        "kr_name": "혼다 어코드"
+      },
+      {
+        "en_name": "Chevrolet Silverado",
+        "ru_name": "Шевроле Сильверадо",
+        "kr_name": "쉐보레 실버라도"
+      },
+      {
+        "en_name": "Nissan Altima",
+        "ru_name": "Ниссан Альтима",
+        "kr_name": "닛산 알티마"
+      },
+      {
+        "en_name": "Ford Mustang",
+        "ru_name": "Форд Мустанг",
+        "kr_name": "포드 머스탱"
+      },
+      {
+        "en_name": "Subaru Outback",
+        "ru_name": "Субару Аутбек",
+        "kr_name": "수바루 아웃백"
+      },
+      {
+        "en_name": "Jeep Wrangler",
+        "ru_name": "Джип Вранглер",
+        "kr_name": "지프 랭글러"
+      },
+      {
+        "en_name": "Volkswagen Jetta",
+        "ru_name": "Фольксваген Джетта",
+        "kr_name": "폭스바겐 제타"
+      },
+      {
+        "en_name": "BMW 3 Series",
+        "ru_name": "БМВ 3 Серии",
+        "kr_name": "BMW 3 시리즈"
+      },
+      {
+        "en_name": "Tesla Model 3",
+        "ru_name": "Тесла Модель 3",
+        "kr_name": "테슬라 모델 3"
+      },
+      {
+        "en_name": "Mazda CX-5",
+        "ru_name": "Маз",
+        "kr_name": "테슬라 모델 3"
+      }
+]
