@@ -5,7 +5,7 @@ import { CarMakerModule } from './modules/car-maker/car-maker.module';
 
 @Module({
   imports: [MongooseModule.forRoot(
-    'mongodb://localhost:27017/nestJsModules'
+     process.env.MONGO_URI || 'mongodb+srv://eagle_dev:zUwXX8zfxw12Bw9t@cluster0.v71kxrc.mongodb.net/CRUDNestAPI'
   ) ,CarModelModule, CarMakerModule],
   controllers: [],
   providers: [],
